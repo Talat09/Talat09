@@ -5,7 +5,7 @@
 
 Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can explore myself more through the opportunities of working and attaining experience.
 
-#Skills: 
+# Skills: 
 - HTML
 - CSS
 - BOOTSTRAP
