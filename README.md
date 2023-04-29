@@ -18,6 +18,7 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 - JWT
 - MONGODB
 
+# CURRENT ACTIVITY:
 - 🔭 I’m currently working on youtube. 
 - 🌱 I’m currently learning Next Js ,Express Js and Mongodb 
 - 👯 I’m looking to collaborate on github 
