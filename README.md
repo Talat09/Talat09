@@ -1,12 +1,24 @@
 ![Web Developer](https://i.ibb.co/vJNmYps/Talat-Mahmud-3.png)
-###### Hi there 👋, Its me Talat Mahmud.
+# Hi there 👋, Its me Talat Mahmud.
 #### Web Developer
+
 
 Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can explore myself more through the opportunities of working and attaining experience.
 
-Skills: HTML / CSS/BOOTSTRAP/TAILWINDCSS/JS/REACT/FIREBASE/NODE JS/EXPRESS JS/JWT/MONGODB
+#Skills: 
+- HTML
+- CSS
+- BOOTSTRAP
+- TAILWINDCSS
+- JAVASCRIPT
+- REACT
+- FIREBASE
+- NODE JS
+- EXPRESS JS
+- JWT
+- MONGODB
 
-
+- 🔭 I’m currently working on youtube. 
 - 🌱 I’m currently learning Next Js ,Express Js and Mongodb 
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with intern 
@@ -22,8 +34,6 @@ Skills: HTML / CSS/BOOTSTRAP/TAILWINDCSS/JS/REACT/FIREBASE/NODE JS/EXPRESS JS/JW
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talat09)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Talat09)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Talat09)  
 
