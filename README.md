@@ -37,5 +37,8 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Talat09)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mdtalat09)  
+
+![GitHub metrics](https://metrics.lecoq.io/Mdtalat09)  
 
 ![Profile views](https://gpvc.arturio.dev/Talat09)  
