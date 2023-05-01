@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/vJNmYps/Talat-Mahmud-3.png)
+![Web Developer](https://i.ibb.co/W225wSP/Talat-Mahmud-6.png)
 # Hi there 👋, Its me Talat Mahmud.
 #### Web Developer
 
