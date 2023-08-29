@@ -12,6 +12,7 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 - TAILWINDCSS
 - JAVASCRIPT
 - REACT
+- Next Js
 - FIREBASE
 - NODE JS
 - EXPRESS JS
