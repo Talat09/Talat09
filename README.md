@@ -39,7 +39,10 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Talat09&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Talat09&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Talat09&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talat09)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,3 +52,9 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talat09&label=Profile%20views&color=0e75b6&style=flat" alt="talat09" /> </p> 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
