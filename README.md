@@ -57,4 +57,4 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Talat09/Talat09/output/snake.svg" alt="Snake animation" />
