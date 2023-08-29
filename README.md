@@ -42,4 +42,4 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 
 ![GitHub metrics](https://metrics.lecoq.io/Mdtalat09)  
 
-![Profile views](https://gpvc.arturio.dev/Talat09)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talat09&label=Profile%20views&color=0e75b6&style=flat" alt="talat09" /> </p> 
