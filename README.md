@@ -1,20 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Hey,+There!;I+am+Talat+Mahmud;&center=true&width=500&height=45" alt="TalatEtripZone">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hey,+There!;I+am+Talat+Mahmud;&center=true&width=500&height=45" alt="TalatMahmudEtripZone">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TalatEtripZone.svg?style=social&label=Followers" />
-  <img src="https://komarev.com/ghpvc/?username=TalatEtripZone&style=plastic" />
+  <img src="https://img.shields.io/github/followers/talat09.svg?style=social&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=talat09&style=plastic" />
   
 </p>
-<br/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align=center>
+  
 ![Web Developer](https://i.ibb.co/W225wSP/Talat-Mahmud-6.png)
 
 # Hi there 👋, Its me Talat Mahmud.
 
-#### Web Developer
+#### Web Developer | Software Engineer
 
-Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can explore myself more through the opportunities of working and attaining experience.
+Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a company where I can explore myself more through the opportunities of working and attaining experience.
 
 # Skills:
 
@@ -39,6 +42,11 @@ Hi, its me Talat. I am MERN STACK DEVELOPER. wanna join a company where I can ex
 - 🤔 I’m looking for a job .
 - 📫 How to reach me **talat1.web@gmail.com**
 - ⚡ Fun fact: I love to watch movie.
+
+<p align="center">
+  	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talat09&theme=github_dark&hide_border=true" />
+  <p align="center"> If you think you are a loser, then you are a loser. If you think you are a winner, then you are a winner. 🔥 </p>
+</p>
 
 # 💻 Tech Stack:
 
