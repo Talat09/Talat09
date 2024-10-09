@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  # Triggers the workflow on push or every 6 hours
+  push:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user_name: Talat09  # Replace with your GitHub username
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Upload the generated snake image
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
