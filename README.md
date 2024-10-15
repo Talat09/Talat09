@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hey,+There!;I+am+Talat+Mahmud;&center=true&width=500&height=45" alt="TalatMahmudEtripZone">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BF63&lines=Hey,+There!;Its+me+Talat+Mahmud.;I+am+Software+Engineer.;&center=true&width=500&height=45&fontWeight=700" alt="TalatMahmudEtripZone">
 </p>
 
 <p align="center">
@@ -12,6 +12,8 @@
 <p align=center>
   
 ![Web Developer](https://i.ibb.co/W225wSP/Talat-Mahmud-6.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align=center>
 
 # Hi there 👋, Its me Talat Mahmud.
 
@@ -85,7 +87,7 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 - ⚡ Fun fact: I love to watch movie.
 
 <p align="center">
-  	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talat09&theme=github_dark&hide_border=true" />
+  	<img width='100%' align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talat09&theme=github_dark&hide_border=true" />
   <p align="center"> If you think you are a loser, then you are a loser. If you think you are a winner, then you are a winner. 🔥 </p>
 </p>
 
@@ -110,9 +112,15 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 
 ### 🔝 Top Contributed Repo
 
-| Contributor Stats | GitHub Stats | Top Languages  |
-|--------------|---------------|--------------------|
-| ![](https://github-contributor-stats.vercel.app/api?username=Talat09&limit=5&theme=radical&combine_all_yearly_contributions=true) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talat09&theme=radical&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| Contributor Stats | GitHub Stats |
+|--------------|---------------|
+| ![](https://github-contributor-stats.vercel.app/api?username=Talat09&limit=5&theme=radical&combine_all_yearly_contributions=true) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talat09&theme=radical&hide_border=true&langs_count=10&layout=compact" style="width: 100%;" />
+</a>
+
+
+
 <img width='100%' src="https://streak-stats.demolab.com?user=Talat09&theme=dark&background=dark&ring=ff0080&fire=ff0080&currStreakLabel=ff0080&border=000000&dates=ffb86c" />
 
 
