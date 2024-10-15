@@ -113,7 +113,8 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 | Contributor Stats | GitHub Stats | Top Languages  |
 |--------------|---------------|--------------------|
 | ![](https://github-contributor-stats.vercel.app/api?username=Talat09&limit=5&theme=radical&combine_all_yearly_contributions=true) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talat09&theme=radical&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+<img width='100%' src="https://streak-stats.demolab.com?user=Talat09&theme=dark&background=dark&ring=ff0080&fire=ff0080&currStreakLabel=ff0080&border=000000&dates=ffb86c" />
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Talat09)
+
 
 
