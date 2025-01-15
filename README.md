@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align=center>
   
-![Web Developer](https://i.ibb.co/W225wSP/Talat-Mahmud-6.png)
+![Web Developer]("./image/Talat-Mahmud.jpg")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align=center>
 
@@ -41,41 +41,44 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
 # 💻 Tools:
 
 ### **Code Editors & Version Control:**
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ### **APIs & Testing:**
+
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### **Deployment & Cloud:**
+
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![C Panel](https://img.shields.io/badge/C_Panel-FF6C37?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### **Collaboration & Project Management:**
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### **Design & Prototyping:**
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ### **AI Tools:**
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%234A90E2.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Cloud AI](https://img.shields.io/badge/Cloud%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![V0.dev AI](https://img.shields.io/badge/V0.dev_AI-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-
-
 
 # 💫 CURRENT ACTIVITY:
 
@@ -91,8 +94,6 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
   <p align="center"> If you think you are a loser, then you are a loser. If you think you are a winner, then you are a winner. 🔥 </p>
 </p>
 
-
-
 ## 🌐 Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/Talat09)
@@ -100,7 +101,6 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010332459337)
 [![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://talat-mahmud-portfolio.vercel.app/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19622973)
-
 
 ## Achivement From Github:
 
@@ -112,17 +112,12 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 
 ### 🔝 Top Contributed Repo
 
-| Contributor Stats | GitHub Stats |
-|--------------|---------------|
-| ![](https://github-contributor-stats.vercel.app/api?username=Talat09&limit=5&theme=radical&combine_all_yearly_contributions=true) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | 
+| Contributor Stats                                                                                                                 | GitHub Stats                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://github-contributor-stats.vercel.app/api?username=Talat09&limit=5&theme=radical&combine_all_yearly_contributions=true) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talat09&theme=radical&hide_border=true&langs_count=10&layout=compact" style="width: 100%;" />
 </a>
 
-
-
 <img width='100%' src="https://streak-stats.demolab.com?user=Talat09&theme=dark&background=dark&ring=ff0080&fire=ff0080&currStreakLabel=ff0080&border=000000&dates=ffb86c" />
-
-
-
-
