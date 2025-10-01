@@ -70,6 +70,7 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 ### **Collaboration & Project Management:**
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Pumble](https://img.shields.io/badge/Pumble-6C5CE7?style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### **Design & Prototyping:**
