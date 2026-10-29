@@ -1,25 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BF63&lines=Hey,+There!;Its+me+Talat+Mahmud.;I+am+Software+Engineer.;&center=true&width=500&height=45&fontWeight=700" alt="TalatMahmudEtripZone">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BF63&lines=Hey,+There!;I'm+Talat+Mahmud.;Full+Stack+Software+Engineer.&center=true&width=500&height=45&fontWeight=700" alt="Talat Mahmud - Full Stack Software Engineer" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/talat09.svg?style=social&label=Followers" />
   <img src="https://komarev.com/ghpvc/?username=talat09&style=plastic" />
-  
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<p align="center">
+  <a href="https://talat-mahmud-portfolio.vercel.app/">
+    <img src="./image/Talat-Mahmud.jpg" alt="Talat Mahmud - Full Stack Software Engineer" />
+  </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align=center>
-  
-![Web Developer](./image/Talat-Mahmud.jpg)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align=center>
 
-# Hi there 👋, Its me Talat Mahmud.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-#### Web Developer | Software Engineer
+# Hi there 👋, I'm Talat Mahmud
 
-Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a company where I can explore myself more through the opportunities of working and attaining experience.
+#### Full Stack Software Engineer | MERN | Next.js
+
+I'm a Full Stack Software Engineer from Dhaka, Bangladesh, currently working at Okriya. I build SaaS products and AI-integrated web apps with Next.js, React, Node.js and MongoDB.
+
+🌐 **Portfolio:** [talat-mahmud-portfolio.vercel.app](https://talat-mahmud-portfolio.vercel.app/)
 
 ## 🚀 Skills:
 
@@ -85,14 +89,14 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![V0.dev AI](https://img.shields.io/badge/V0.dev_AI-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 
-# 💫 CURRENT ACTIVITY:
+# 💫 Current Activity:
 
-- 🔭 I’m currently working on New things.
-- 🌱 I’m currently learning Next Js ,Express Js and Mongodb
-- 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for a job .
-- 📫 How to reach me **talat1.web@gmail.com**
-- ⚡ Fun fact: I love to watch movie.
+- 🔭 Building full-stack products at Okriya
+- 🌱 Exploring AI-integrated web apps and SaaS architecture
+- 👯 Open to collaborating on interesting projects
+- 📫 Reach me at **talat1.web@gmail.com**
+- ⚡ Fun fact: I love watching movies
+
 
 <p align="center">
   	<img width='100%' align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talat09&theme=github_dark&hide_border=true" />
@@ -107,9 +111,9 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 [![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://talat-mahmud-portfolio.vercel.app/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19622973)
 
-## Achivement From Github:
+## 🏅 Achievements:
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 ## 🏆 GitHub Trophies
 
@@ -117,8 +121,8 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 
 ### 🔝 Top Contributed Repo
 
-| Contributor Stats                                                                                                                 | GitHub Stats                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contributor Stats | GitHub Stats |
+| --- | --- |
 | ![](https://github-contributor-stats.vercel.app/api?username=Talat09&limit=5&theme=radical&combine_all_yearly_contributions=true) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talat09&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
